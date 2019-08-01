@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Living in New Zealand" },
+    { "id": 2, "title": "Life in an IT industry" },
+    { "id": 3, "title": "Work Life balance" }
+  ],
+  "comments": [
+    { "id": 1, "body": "This is an awsome blog! love it", "postId": 1 },
+    { "id": 2, "body": "Keep posting more Mate!", "postId": 1 }
+  ],
+  "profile": {
+    "name": "Tommy Lee", "job": "Software Developer" , "salary":80000, "experience": 8, "sex": "male", "address":"22/1, Main road, Tawa, Wellington - 5028"
+  }
+}
